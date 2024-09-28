@@ -53,7 +53,7 @@
       "source": "./modules/aws_iam_role_policy"
     },
     "appcd_86ec452a-770a-59bf-87dd-67ed883e25e5": {
-      "name": "/aws/lambda/hello-kitty-function",
+      "name": "/aws/lambda/hello-kitty-function-1405",
       "retention_in_days": 7,
       "source": "./modules/aws_cloudwatch_log_group",
       "tags": {
@@ -73,7 +73,7 @@
       "description": null,
       "force_detach_policies": true,
       "inline_policy": [],
-      "name": "hello-kitty-role",
+      "name": "hello-kitty-role-lokeshdingra14",
       "source": "./modules/aws_iam_role",
       "tags": {
         "appstack": "Hello",
